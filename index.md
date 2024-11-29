@@ -103,8 +103,6 @@ autoplay="true"
 
 > Write a docstring for the `Token` class and all of it's methods
 
-**This is with GPT-4o**
-
 !?[Generate code in chat](images/gen-in-chat-opt.mp4)<!--
 muted="true"
 loop="true"
@@ -250,7 +248,7 @@ Try to understand the advantages and limitations of each tool.
 * [Biopython](https://github.com/biopython/biopython/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+-linked%3Apr)
 * [GGPlot2](https://github.com/tidyverse/ggplot2/issues/6178)
 * [YAML](https://github.com/MaybeJustJames/yaml/issues?q=is%3Aissue+is%3Aopen+-linked%3Apr)
-* [My small language model](#)
+* [My small language model](https://github.com/vibbits/ai-coding-course)
 
 ## Discussion
 
