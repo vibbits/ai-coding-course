@@ -200,17 +200,29 @@ Brainstorm
 
 ## Demo: ChatGPT
 
-1. Set custom context in ChatGPT:
+### Step 1: Set custom context in ChatGPT.
 
 > you are a machine learning developper in python. You use lightning-pytorch. You work in research field.
 
-2. Describe the problem.
+!?[ChatGPT set custom context](images/chatgpt-custom-opt.mp4)<!--
+muted="true"
+loop="true"
+autoplay="true"
+-->
 
-> I have eye tracking time-series data for patient with a certain age. I want to classify this time series based on age. Please suggest a list of good deep learning models.
+### Step 2: Describe the problem.
 
-3. Generate the python code to test this model
+> I have eye tracking time-series data for patients with a certain age. I want to classify this time series based on age. Please suggest a list of good deep learning models.
+
+### Step 3: Generate the python code to test this model.
 
 > Generate python code with the LSTM model
+
+!?[ChatGPT Machine learning code](images/chatgpt-ml-models-opt.mp4)<!--
+muted="true"
+loop="true"
+autoplay="true"
+-->
 
 ## Demo: `q`
 
@@ -223,7 +235,7 @@ loop="true"
 autoplay="true"
 -->
 
-## Explore tools
+## Your turn: Explore the tools
 
 **Goal**: Make a real-world open-source contribution (or equivalent).
 
