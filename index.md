@@ -262,6 +262,21 @@ Try to understand the advantages and limitations of each tool.
 * [YAML](https://github.com/MaybeJustJames/yaml/issues?q=is%3Aissue+is%3Aopen+-linked%3Apr)
 * [My small language model](https://github.com/vibbits/ai-coding-course)
 
+## Do it again
+
+1. Go to [Replit](https://replit.com) and sign up
+1. Import a github project using the link: https://github.com/vibbits/ai-coding-course
+
+You will need to find out:
+
+* How do I run a Haskell project?
+* How do I build a Haskell project?
+* What does the code do?
+* Can you add tests to the project?
+* Code review the project
+* Does the code have bugs?
+* Can you add a feature?
+
 ## Discussion
 
 1. What worked well? Which use-case/tool combinations worked well?
